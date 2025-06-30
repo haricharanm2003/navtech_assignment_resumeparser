@@ -35,41 +35,5 @@ Requirements Covered :-
 	4.	View the extracted JSON output
 
 6. Sample output :-
+![image](https://github.com/user-attachments/assets/cd4858c5-c7df-419c-b326-c0b28d488ac1)
 
-{
-  "first_name": "",
-  "last_name": "",
-  "email": "",
-  "phone": "",
-  "address": {
-    "city": "",
-    "state": "",
-    "country": ""
-  },
-  
-  "summary": "",
-  "skills": [
-    {
-      "skill": ""
-    }
-  ],
-  
-  "education_history": [
-    {
-      "degree": "",
-      "name": "",
-      "from_date": "",
-      "to_date": ""
-    }
-  ],
-  
-  "work_history": [
-    {
-      "company": "",
-      "title": "",
-      "from_date": "",
-      "to_date": "",
-      "description": ""
-    }
-  ]
-}
