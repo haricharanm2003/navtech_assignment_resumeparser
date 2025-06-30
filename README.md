@@ -46,12 +46,14 @@ Requirements Covered :-
     "state": "",
     "country": ""
   },
+  
   "summary": "",
   "skills": [
     {
       "skill": ""
     }
   ],
+  
   "education_history": [
     {
       "degree": "",
@@ -60,6 +62,7 @@ Requirements Covered :-
       "to_date": ""
     }
   ],
+  
   "work_history": [
     {
       "company": "",
